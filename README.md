@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/subscription-tracker-api.git
+git clone https://github.com/Inventus-s/subscription-tracker-api.git
 cd subscription-tracker-api
 ```
 
@@ -130,13 +130,4 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 - **Hostinger** - [https://hostinger.com/mastery10](https://hostinger.com/mastery10)  
 - **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)  
 
-## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
